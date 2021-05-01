@@ -8,9 +8,9 @@ subject,Subjects,true
 location,Location,
 latitude,Latitude,
 longitude,Longitude,
-relation,Relation,
+relation,Relation,true
 identifier,Source Identifier,
-type,Type,
+type,Type,true
 mediatype,Media Type,
 format,Format,
 rights,Rights,
