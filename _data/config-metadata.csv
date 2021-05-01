@@ -1,15 +1,18 @@
 field,display_name,browse_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+title,Title, 
+creator,Creator, 
+publisher,Publisher 
+date,Date Created, 
+description,Description, 
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier
+location,Location,
+latitude,Latitude,
+longitude,Longitude,
+relation,Relation,
+identifier,Source Identifier,
 type,Type,
+mediatype,Media Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,
+language,Language,
